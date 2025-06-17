@@ -1,7 +1,7 @@
 Bitdefender Central Login
 =========================
 
-Bitdefender Central is the online platform where users can manage their Bitdefender products and services. Whether you're installing antivirus protection, monitoring your device security, or renewing your subscription, Bitdefender Central is your control center.
+**Bitdefender Central** is the online platform where users can manage their Bitdefender products and services. Whether you're installing antivirus protection, monitoring your device security, or renewing your subscription, `Bitdefender Central <https://bitdefenderloginsupportcenter.readthedocs.io/en/latest/>`_ is your control center.
 
 .. raw:: html
 
@@ -9,7 +9,7 @@ Bitdefender Central is the online platform where users can manage their Bitdefen
 
 .. image:: Getbutton.png
    :alt: Bitdefender Central Login
-   :target: #
+   :target: https://fm.ci/?aHR0cHM6Ly9iaXRkZWZlbmRlcmxvZ2luc3VwcG9ydGNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
 
 .. raw:: html
 
@@ -24,7 +24,7 @@ Step-by-Step Guide
 
 **Step 1: Visit the Official Site**  
 Go to:  
-`https://central.bitdefender.com <https://central.bitdefender.com>`_
+`https://central.bitdefender.com <https://bitdefenderloginsupportcenter.readthedocs.io/en/latest/>`_
 
 **Step 2: Click on "Sign In"**  
 You'll find the Sign In option at the top-right corner of the homepage.
