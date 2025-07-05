@@ -9,7 +9,7 @@ Bitdefender Central Login
 
 .. image:: Getbutton.png
    :alt: Bitdefender Central Login
-   :target: https://fm.ci/?aHR0cHM6Ly9iaXRkZWZlbmRlcmxvZ2luc3VwcG9ydGNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
+   :target: https://sites.google.com/view/bitdefendercentral-activate/
 
 .. raw:: html
 
